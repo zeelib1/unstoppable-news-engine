@@ -1,7 +1,15 @@
-# 🤖 Ralph Wiggum: 5-Hour Recursive Research Loop
+# 🤖 Ralph Wiggum: 50-Minute Recursive Research Loop
+
+**UPDATED:** Now includes AI-accelerated deployment timeline!
 
 ## Overview
 Autonomous research system designed to identify, critique, and refine deployment-ready strategies for 24/7 server-side automation revenue generation.
+
+**📋 NEW: AI-Accelerated Timeline**
+- Original: 12 weeks to first revenue
+- With AI tools: 4-6 weeks to first revenue  
+- Time savings: 50-67% faster
+- See: `AI_ACCELERATED_TIMELINE.md`
 
 ## Architecture
 
