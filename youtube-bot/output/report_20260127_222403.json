@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-01-27T22:24:03.568570",
+  "topic": {
+    "title": "How to Build a REST API in 15 Minutes",
+    "hook": "You don't need to spend days learning frameworks...",
+    "target_audience": "Web developers learning backend"
+  },
+  "script": {
+    "title": "How to Build a REST API in 15 Minutes",
+    "hook": "You don't need to spend days learning frameworks...",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "content": "You don't need to spend days learning frameworks... In this video, I'll show you exactly how to solve this problem.",
+        "duration_seconds": 15
+      },
+      {
+        "heading": "Main Content",
+        "content": "Here's the step-by-step process. First, understand the core concept. Second, implement the solution. Third, optimize for performance.",
+        "duration_seconds": 180
+      },
+      {
+        "heading": "Conclusion",
+        "content": "That's it! If you found this helpful, like and subscribe for more content like this.",
+        "duration_seconds": 15
+      }
+    ],
+    "cta": "Like, subscribe, and hit the bell icon!",
+    "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "coding"
+    ],
+    "description": "Learn about How to Build a REST API in 15 Minutes in this quick tutorial."
+  },
+  "video": {
+    "path": "/root/clawd/youtube-bot/output/video_20260127_222341.mp4",
+    "title": "How to Build a REST API in 15 Minutes",
+    "description": "Learn about How to Build a REST API in 15 Minutes in this quick tutorial.",
+    "tags": [
+      "python",
+      "programming",
+      "tutorial",
+      "coding"
+    ]
+  },
+  "thumbnails": [
+    "/root/clawd/youtube-bot/output/thumbnail_1_20260127_222341.jpg",
+    "/root/clawd/youtube-bot/output/thumbnail_2_20260127_222341.jpg",
+    "/root/clawd/youtube-bot/output/thumbnail_3_20260127_222341.jpg"
+  ],
+  "upload_result": {
+    "status": "cancelled",
+    "reason": "User declined upload"
+  }
+}

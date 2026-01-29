@@ -1,0 +1,572 @@
+{
+  "tweets": [
+    {
+      "id": "2016229954640302510",
+      "text": "I don’t understand how Salesforce makes as much money as it does. I don’t understand the need for a Salesforce conference. I don’t understand what is so complicated about a CRM that it requires training. \n\nPeople really are out here living strange lives.",
+      "createdAt": "Tue Jan 27 19:20:55 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016229954640302510",
+      "author": {
+        "username": "thehonestape",
+        "name": "Abraham Garcia - Workhorse"
+      },
+      "authorId": "13125122"
+    },
+    {
+      "id": "2016202083578311125",
+      "text": "Route optimization doesn’t have to be complicated. @Maplytics\n\nThis complete Q&amp;A breaks down how it works—and why it matters for CRM workflows 👇\nhttps://t.co/ykLFhR5yx2 \n\n#RouteOptimization #Q&amp;A #CrmWorkflows #D365",
+      "createdAt": "Tue Jan 27 17:30:10 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016202083578311125",
+      "author": {
+        "username": "inogic",
+        "name": "Inogic Powers #Copilot in #Dynamics365 #PowerApps"
+      },
+      "authorId": "41190327"
+    },
+    {
+      "id": "2016197062883475576",
+      "text": "@rampulla_andrew Not worth the battle, IMO. I don't think most people realize how damn expensive it is to run a legit business. Good materials, the right insurance, paying your guys well, all the systems (CRM, marketing, etc.), and more...It simply is not worth doing for less.",
+      "createdAt": "Tue Jan 27 17:10:13 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016176023247933518",
+      "inReplyToStatusId": "2016176023247933518",
+      "author": {
+        "username": "colealyon",
+        "name": "Cole A Lyon"
+      },
+      "authorId": "816208159"
+    },
+    {
+      "id": "2016193684165869721",
+      "text": "@arram lol. It’s funny because the Hub Spot founder has been recently “educating” people on why they don’t want to vibe code their CRM.  It’s sooooooo complicated. I’m over 6 months into coding and it’s the one thing I look at (CRM’s) and say “that’s going to be simple”",
+      "createdAt": "Tue Jan 27 16:56:48 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2015838119472308224",
+      "inReplyToStatusId": "2016190393579090194",
+      "author": {
+        "username": "benjhaberman",
+        "name": "Benjamin Haberman"
+      },
+      "authorId": "1095017202930061312"
+    },
+    {
+      "id": "2016192563615523202",
+      "text": "It's crazy how complicated companies like @Google make it to do something as simple as\n1) add a contact \n2) add them to a group\n3) the group is shared with coworkers so everyone can see everyone's work contacts \n4) have the contacts integrated with my CRM.  \n\nIt should be simple but it's not. I shouldn't have to pay for a program in between to do it either. I just wanna be able to add fucking contacts and have them go into my work CRM.",
+      "createdAt": "Tue Jan 27 16:52:20 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016192563615523202",
+      "author": {
+        "username": "strallweat",
+        "name": "strallweat"
+      },
+      "authorId": "126544591"
+    },
+    {
+      "id": "2016127716572201106",
+      "text": "A powerful CRM with bad habits is worse than no CRM at all.\n\nIf your Dynamics 365 setup isn’t driving daily actions,\nit’s just an expensive database.\n\nCurious  what’s the one CRM habit your team struggles with most? \n\n#Dynamics365 #CRMManagement #SalesTech #RevOpsLife #CRMStuff https://t.co/pxQpzJOBMT",
+      "createdAt": "Tue Jan 27 12:34:40 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016127716572201106",
+      "author": {
+        "username": "crmstuff",
+        "name": "CRM Stuff"
+      },
+      "authorId": "1977671855419871232",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_q5NgQbAAMZQaq.jpg",
+          "width": 1638,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G_q5NgQbAAMZQaq.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2016088797964890436",
+      "text": "Running a business today doesn’t have to be so complicated.\n\nWebsite here.\nAds there.\nCRM somewhere else.\nAutoPR connects everything for you with AI-powered automation.\nFrom your website and marketing to CRM and growth workflows, we make sure your digital presence is streamlined and effective.\n\nFocus on what matters most  running your business.\nWe’ll handle the rest.",
+      "createdAt": "Tue Jan 27 10:00:01 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016088797964890436",
+      "author": {
+        "username": "billachusim",
+        "name": "Mr. Bill Achusim"
+      },
+      "authorId": "91290333"
+    },
+    {
+      "id": "2015999449072599425",
+      "text": "@AkhilKolla @cursor_ai @claudeai @OpenAI Nah just a lot of expensive tokens (Opus 4.5, 5.2 whatever the highest is). \n\nActually maybe yes kinda @Bento does have some CRM functionality 😂",
+      "createdAt": "Tue Jan 27 04:04:58 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015975060524433563",
+      "inReplyToStatusId": "2015999169693962544",
+      "author": {
+        "username": "jessethanley",
+        "name": "˗ˏˋ Jesse Hanley ˎˊ˗"
+      },
+      "authorId": "83546545"
+    },
+    {
+      "id": "2015801906107387915",
+      "text": "If agents are confused, consumers are confused. Publish one internal playbook and hold the line.\nTech stack check: CRM adoption, transaction checklist discipline, document storage, audit trail. Sloppy is expensive.",
+      "createdAt": "Mon Jan 26 15:00:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2015801906107387915",
+      "author": {
+        "username": "MDspiritsoul",
+        "name": "Mark Dolan-Time Tested Mastery"
+      },
+      "authorId": "1591843576777826304"
+    },
+    {
+      "id": "2015795053965566425",
+      "text": "@m_adipola I ditched a complicated project management tool and switched to spreadsheets. Simplified everything and boosted team clarity. Sometimes less really is more!",
+      "createdAt": "Mon Jan 26 14:32:47 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2015716972823302652",
+      "inReplyToStatusId": "2015716972823302652",
+      "author": {
+        "username": "thenellvh",
+        "name": "Nell VH"
+      },
+      "authorId": "1689465022353977344"
+    },
+    {
+      "id": "2015772256144658575",
+      "text": "Doing your own marketing, sales, and managing tools as an agent is complicated.\n\nYou need…\n\n- A CRM\n- KPI dashboards\n- Call tracking numbers\n- Real-time routing logic\n- Recording infrastructure\n- Google & Facebook ad accounts\n- Interactive voice response systems\n\nAnd that’s just off the top of my head, I’m sure there’s more.\n\nBut what’s worse than setting these up is making sure each tool is continuously connected to the others so your business is streamlined the way it should be.\n\nThat’s why we built our platform. The entire stack lives in one place, and it’s already seamlessly connected together.\n\nOur ads run on the backend, generating inbound leads that call you on the front end. When the call is complete, your dashboard updates, the call is recorded, your CRM is automatically updated, and you’re ready for the next call.\n\nYou don’t need to build your own castle; we’ve built one for you.\n\nAll you’re paying for is the cost of each call to cover the ads. All the aforementioned stuff exists solely to help you succeed. Because when you win, you don’t churn off our platform.\n\nOr in simpler terms, when you win, we win.\n\nIf you’d like to learn more, visit the link below:",
+      "createdAt": "Mon Jan 26 13:02:11 +0000 2026",
+      "replyCount": 2,
+      "retweetCount": 2,
+      "likeCount": 9,
+      "conversationId": "2015772256144658575",
+      "author": {
+        "username": "johnmventura",
+        "name": "John Ventura"
+      },
+      "authorId": "389217553"
+    },
+    {
+      "id": "2015713822850392072",
+      "text": "Your CRM is a lead morgue.\n\nEvery contact without automated follow-up is a corpse you paid for.\n\nYou're spending $8 per click to fill a database that nobody touches for weeks.\n\nThat's not pipeline management.\nThat's expensive digital hoarding.\n\nAutomate recapture or stop buying traffic.",
+      "createdAt": "Mon Jan 26 09:10:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2015713822850392072",
+      "author": {
+        "username": "otarurichman",
+        "name": "Otaru Richman"
+      },
+      "authorId": "1841797466712076288"
+    },
+    {
+      "id": "2015677486353600911",
+      "text": "Most agencies are sitting on a goldmine and don't even know it.\n\nStop treating GHL like an expensive email tool. These custom values are literally client retention and revenue multiplication systems.\n\nThe craziest part? This is all included in what you're already paying for.",
+      "createdAt": "Mon Jan 26 06:45:36 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015677345362034970",
+      "inReplyToStatusId": "2015677474647269534",
+      "author": {
+        "username": "boringghl",
+        "name": "Boring GHL Glitches"
+      },
+      "authorId": "481990453"
+    },
+    {
+      "id": "2015626713762304235",
+      "text": "Today's CMOs and CCOs sit atop vast reservoirs of data, campaign performance metrics, media monitoring feeds, CRM histories, social listening outputs, brand tracking studies. The systems holding this data are sophisticated, integrated, and often expensive. Yet a persistent question lingers in executive meetings: Why does it still take so long to figure out what's actually happening? https://t.co/PJYsOzCMEa",
+      "createdAt": "Mon Jan 26 03:23:51 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015626713762304235",
+      "author": {
+        "username": "edzaizv",
+        "name": "Edzai Zvobwo"
+      },
+      "authorId": "74403853"
+    },
+    {
+      "id": "2015538225041883161",
+      "text": "@redbarq @awilkinson salesforce gets expensive and complicated.  I wonder how they're reacting to the movement for people vibe-coding their own CRM",
+      "createdAt": "Sun Jan 25 21:32:14 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015431978481541439",
+      "inReplyToStatusId": "2015513562651795660",
+      "author": {
+        "username": "Matt_Warren",
+        "name": "Matt Warren ⚠️"
+      },
+      "authorId": "14304643"
+    },
+    {
+      "id": "2015510951575814558",
+      "text": "Steering a 1,000-day ERP project on a simple Excel sheet: Mission impossible?\n\nIt is often thought that complex and expensive project management tools are required to avoid budget drifts. The reality? It is all a matter of structure and methodology.",
+      "createdAt": "Sun Jan 25 19:43:51 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015510951575814558",
+      "author": {
+        "username": "VirgilePetranto",
+        "name": "Virgile Petrantoni"
+      },
+      "authorId": "901656222"
+    },
+    {
+      "id": "2015471741296934975",
+      "text": "@the_PA_trader89 Yeah i used to own $CRM but sold at 315 \n\nI like $CRM too moat wise but i cant justify it because of the slower growth for a more expensive valuation and also management is worst imo",
+      "createdAt": "Sun Jan 25 17:08:03 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015260307145289780",
+      "inReplyToStatusId": "2015294399983366535",
+      "author": {
+        "username": "QualityInvest5",
+        "name": "Aria Radnia 🇮🇷"
+      },
+      "authorId": "815339814874652672"
+    },
+    {
+      "id": "2015259709595410737",
+      "text": "@AdTurboAI I've tested the AI tools, and they still miss what matters most: connecting ad spend to actual pipeline in your CRM. Without that integration, strategy becomes expensive guessing.",
+      "createdAt": "Sun Jan 25 03:05:31 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2015251606040728060",
+      "inReplyToStatusId": "2015251606040728060",
+      "author": {
+        "username": "sgelber8",
+        "name": "Scott Gelber"
+      },
+      "authorId": "1665559693"
+    },
+    {
+      "id": "2015017751476043823",
+      "text": "Scoring and prioritising leads in a small aviation business does not require a big, expensive CRM system. In fact, many flying clubs, flight schools, charter operators, and maintenance organisations already have most of the data they need. It is usually just scattered across inboxes, forms, spreadsheets, and booking tools.\n\nLead scoring simply means deciding which enquiries deserve attention first, and which ones can wait or be handled automatically. When done well, it reduces response time for high value prospects, avoids wasting time on poor fits, and creates a calmer, more predictable sales and onboarding process.\n\nWhy lead scoring matters in aviation\n\nAviation businesses deal with very different types of leads. A student pilot asking about trial flights is very different from an operator enquiring about block charter hours, or an aircraft owner asking for long term maintenance support. Treating every enquiry the same leads to rushed decisions, missed follow ups, and constant interruptions.\n\nLead scoring gives structure to this. Even a simple system helps you answer three questions immediately:\nWho should I respond to first?\nWhat kind of response do they need?\nWhat should happen next if I do not respond right away?\n\nStarting simple without a CRM\n\nYou do not need Salesforce or HubSpot for this. Many aviation SMBs start with nothing more than:\nAn online enquiry form\nAn email inbox\nA spreadsheet or lightweight database\nAn automation tool such as Make\n\nThe key is capturing a few useful signals when someone first gets in touch. For example:\nType of enquiry (training, charter, maintenance, membership)\nUrgency (immediate, this month, just researching)\nBudget or aircraft type\nHow they found you\nWhether they have flown before or own an aircraft\n\nEach of these can contribute to a basic score.\n\nAn example for a flight school\n\nImagine a flight school with an online contact form. You ask:\nAre you looking for a trial flight, licence training, or advanced ratings?\nWhen would you like to start?\nHave you flown before?\n\nBehind the scenes, you can assign simple values:\nAdvanced ratings enquiry = high score\nStart within 30 days = high score\nPrevious flying experience = medium score\n\nUsing Make, you can automatically:\nReceive the form submission\nCalculate a total score based on answers\nTag the lead as High, Medium, or Low priority\nStore it in a Google Sheet or Airtable\nSend a tailored reply\n\nHigh priority leads get a personal email with availability and a phone call reminder sent to your team. Medium priority leads get a helpful information pack and an invitation to book a call. Low priority leads get an automated welcome email and are added to a follow up sequence that checks in after a week or two.\n\nNo CRM required, but the behaviour is the same as professional sales systems.\n\nCharter and aircraft services use case\n\nFor charter operators or maintenance organisations, lead scoring is often about aircraft size, scope, and seriousness.\n\nAn enquiry mentioning urgent AOG support, turbine aircraft, or recurring charter work should not sit in the same queue as a vague availability question.\n\nYou can score based on:\nAircraft type\nLocation\nUrgency\nMention of contracts or ongoing work\nOut of hours request\n\nAutomation can then route high scoring leads to immediate notifications via email or internal messaging, while lower scoring enquiries receive an acknowledgement and are processed during normal business hours.\n\nThis alone reduces stress on staff and ensures valuable opportunities are handled promptly.\n\nUsing simple tools you may already have\n\nMany aviation businesses already use:\nGoogle Forms or website forms\nShared inboxes\nScheduling tools\nAccounting or booking software\n\nMake can connect these without changing your core systems. For example:\nWebsite form submission triggers a scoring scenario\nScores and notes are written into a spreadsheet\nThe spreadsheet update triggers different email templates\nCalendar reminders are created for follow ups\nA summary is sent to the owner or ops manager once per day\n\nThe result is a quiet, orderly flow of information instead of reactive inbox checking.\n\nGradually adding more intelligence\n\nOnce the basics are working, you can layer on more advanced logic:\nIncrease lead score if they open emails or book a call\nDecrease score if there is no response after multiple follow ups\nRoute certain lead types directly into booking workflows\nSync high quality leads into a lightweight CRM or customer database\nGenerate reports that show enquiry quality by source\n\nFor flying clubs, this can help identify which marketing activities attract committed members rather than casual browsers. For schools, it clarifies which channels produce students who actually start training. For maintenance shops, it highlights repeat aircraft owners vs one off requests.\n\nThe real benefit: less noise, better focus\n\nLead scoring is not about pushing sales harder. It is about protecting your time and your team’s attention. In aviation, interruptions cost more than just efficiency. They affect safety culture, customer perception, and staff workload.\n\nBy letting automation handle sorting, tagging, and responding to enquiries, you create space for human judgement where it matters most: building relationships, planning operations, and delivering safe, high quality service.\n\nIf you are feeling overwhelmed by enquiries but know not all of them deserve the same effort, lead scoring is one of the highest leverage automations you can implement. Start small, keep it simple, and let the system grow with your business.",
+      "createdAt": "Sat Jan 24 11:04:03 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015017751476043823",
+      "author": {
+        "username": "Redspan",
+        "name": "Redspan Automation"
+      },
+      "authorId": "23502412",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_bH9uFXIAAkPBx.jpg",
+          "width": 1024,
+          "height": 1024,
+          "previewUrl": "https://pbs.twimg.com/media/G_bH9uFXIAAkPBx.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2015000077958304010",
+      "text": "@sentry @posthog @BetterStackHQ @supabase @hashnode 🧵6/6 @planepowers - Open-source project management (Jira / Linear alternative)\n\nTasks, epics, cycles, dependencies, wiki, AI search, imports from other tools.\n\nCommunity Edition is free to self-host. Cloud free tier available.  Stay organized without expensive vendor lock-in. https://t.co/Zm6jH0rXgk",
+      "createdAt": "Sat Jan 24 09:53:50 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2014998236990153055",
+      "inReplyToStatusId": "2014999668053168383",
+      "author": {
+        "username": "marketlens_app",
+        "name": "MarketLens"
+      },
+      "authorId": "1838566048318083072",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_a31LoXoAAdxKu.jpg",
+          "width": 1200,
+          "height": 710,
+          "previewUrl": "https://pbs.twimg.com/media/G_a31LoXoAAdxKu.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2014911261318729762",
+      "text": "Automation shouldn’t be complicated—make each step count!",
+      "createdAt": "Sat Jan 24 04:00:54 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014911258361753993",
+      "inReplyToStatusId": "2014911260450578720",
+      "author": {
+        "username": "rocket_crm",
+        "name": "Rocket CRM"
+      },
+      "authorId": "1583753959"
+    },
+    {
+      "id": "2014827452468756846",
+      "text": "@paraddox Specs are the new control surface. The code is cheap, the constraints aren’t.\n\nThe only part I’d still keep “human tight” is the data model + permissions, because that’s where CRM builds get expensive to unwind.",
+      "createdAt": "Fri Jan 23 22:27:53 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014787708686639193",
+      "inReplyToStatusId": "2014787708686639193",
+      "author": {
+        "username": "BrandGrowthOS",
+        "name": "Karim C"
+      },
+      "authorId": "1807415733069950977"
+    },
+    {
+      "id": "2014749971677880557",
+      "text": "You're celebrating 50 new leads this week.\n\nMeanwhile, 200 old leads are rotting in your CRM with zero contact in 60+ days.\n\nNew lead acquisition is expensive.\nOld lead reactivation is free.\n\nBuild automated re-engagement campaigns before chasing more cold traffic.",
+      "createdAt": "Fri Jan 23 17:20:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2014749971677880557",
+      "author": {
+        "username": "otarurichman",
+        "name": "Otaru Richman"
+      },
+      "authorId": "1841797466712076288"
+    },
+    {
+      "id": "2014718088122663413",
+      "text": "Tool bloat is real 🤯\nCRMs have 100+ features, sales teams use maybe 10.\nThe rest? Confusing dashboards,unused modules,wasted time⏳\nDexKor SalesHub cuts the clutter with opinionated workflows for B2B SaaS teams 🎯\nSell more,click less 🚀\n#SalesTech #CRM #B2BSaaS #RevOps #DexKor https://t.co/Vas07Bngtr",
+      "createdAt": "Fri Jan 23 15:13:18 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 1,
+      "likeCount": 2,
+      "conversationId": "2014718088122663413",
+      "author": {
+        "username": "DexkorTeam",
+        "name": "DexKor"
+      },
+      "authorId": "1993633073234337792",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_W3bGGXQAER16y.jpg",
+          "width": 1024,
+          "height": 1024,
+          "previewUrl": "https://pbs.twimg.com/media/G_W3bGGXQAER16y.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2014687699169640728",
+      "text": "@TheRayMyers TTD, FISV, NOW, PYPL, NVO, UNH, ADBE, CRM, and possibly RACE.\nMSTR is a fake company. Duo is still extremely expensive. CMG is still expensive.",
+      "createdAt": "Fri Jan 23 13:12:33 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014432453033611724",
+      "inReplyToStatusId": "2014432453033611724",
+      "author": {
+        "username": "QuatoofCapital",
+        "name": "Quatoof Capital"
+      },
+      "authorId": "165862485"
+    },
+    {
+      "id": "2014636447744328148",
+      "text": "We threw out the legacy CRM playbook.\nSalesforce/Hootsuite/HubSpot/GHL = expensive + static + built for a different era.\nIntroducing SEQUENCE: built from scratch for agentic AI + GenAI — listens to reps, updates pipeline in real time, suggests scripts & next steps.\nNext: SEO/AEO/GEO baked in. 🚀\n\nhttps://t.co/LifHYBdW24",
+      "createdAt": "Fri Jan 23 09:48:53 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014636447744328148",
+      "author": {
+        "username": "sugarleatherai",
+        "name": "Troy Cunningham-Jackson"
+      },
+      "authorId": "1971509555654766594"
+    },
+    {
+      "id": "2014570604767412357",
+      "text": "@TheRonnieVShow Got a little bit of $CRM and $NFLX. \n\n$ORCL is significantly more expensive and of lower quality than $META. I have no clue why anyone would invest in $ORCL.",
+      "createdAt": "Fri Jan 23 05:27:15 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014412242154840320",
+      "inReplyToStatusId": "2014412242154840320",
+      "author": {
+        "username": "DumbObservation",
+        "name": "Stupid Comments and Observations"
+      },
+      "authorId": "1065245863"
+    },
+    {
+      "id": "2014269307367362849",
+      "text": "I spent years feeling \"externally in control but internally chaotic.\"\n\nI had the fancy Notion boards and the expensive CRM. But my head still felt messy at 2:00 PM on a Thursday.\n\nCapella Pro is my answer to that chaos. It's a professional operating system.",
+      "createdAt": "Thu Jan 22 09:30:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2014269307367362849",
+      "author": {
+        "username": "Rhythm_Munyarr",
+        "name": "Rhythm Munyar"
+      },
+      "authorId": "1688927459390201857"
+    },
+    {
+      "id": "2014226541933449694",
+      "text": "Managing customer conversations shouldn't be complicated.\n\nAkshar Plus brings messaging, CRM, and analytics together in one smart platform for growing businesses. \n\n#AksharPlus #SmartBusiness #CustomerEngagement #CRM https://t.co/HzsT9rY4fH",
+      "createdAt": "Thu Jan 22 06:40:04 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2014226541933449694",
+      "author": {
+        "username": "AnkitaChou91696",
+        "name": "Ankita Choudhary"
+      },
+      "authorId": "1993932970907062273",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_P4WxhbwAEq8Nx.jpg",
+          "width": 1536,
+          "height": 1024,
+          "previewUrl": "https://pbs.twimg.com/media/G_P4WxhbwAEq8Nx.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2014221489340285234",
+      "text": "Your best sales rep isn't human.\n\nIt's the CRM workflow that fires at 2am.\nThe sequence that nurtures leads for 90 days.\nThe qualification logic that runs while you're offline.\n\nIf revenue stops when you stop, you don't have a business.\n\nYou have a very expensive job.",
+      "createdAt": "Thu Jan 22 06:20:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2014221489340285234",
+      "author": {
+        "username": "otarurichman",
+        "name": "Otaru Richman"
+      },
+      "authorId": "1841797466712076288"
+    },
+    {
+      "id": "2014082177227469224",
+      "text": "Using AI doesn’t mean you have to develop from scratch.\nHere is how I am using Ai\n1. Use Claude Code to help design and generate code for UiPath workflows - this may be complicated before but now it much more easier with AI.\n2. RUR #1 within $path platform.\n\n$adbe, $crm are same",
+      "createdAt": "Wed Jan 21 21:06:25 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014082177227469224",
+      "author": {
+        "username": "Ngoc1Long",
+        "name": "john h"
+      },
+      "authorId": "1457215667648831488"
+    },
+    {
+      "id": "2014027811170680921",
+      "text": "Your CRM is just an expensive address book?\n\nMany USA/UK agencies track deals in spreadsheets or multiple apps — leads slip, follow-ups forgotten.\n\nGoHighLevel's pipeline CRM + automation ties everything together: stages, tasks, SMS/email triggers, Stripe payments.\n\nBenefit: Close 20–40% more deals with zero manual chasing.\n\nThis week's live bootcamp builds your first pipeline click-by-click + exclusive 30-day trial.\n\nLink in bio\n\nHow many tools are you using just for CRM right now? Reply!\n\n#GoHighLevel",
+      "createdAt": "Wed Jan 21 17:30:23 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2014027811170680921",
+      "author": {
+        "username": "HassaJohn",
+        "name": "John Hassa"
+      },
+      "authorId": "1779829257533022208"
+    },
+    {
+      "id": "2014017346982002959",
+      "text": "5 Key Reasons to Invest in Software;\n\n1. Software has become the operational core of companies\nIt is no longer a support function, but a critical infrastructure (ERP, CRM, data, security, workflow). Replacing these systems is expensive, risky and time-consuming, which creates high switching costs and stable revenues.\n\n2. AI enhances the value of the best platforms, not displaces them\n2024-2025 showed that AI does not destroy SaaS, but rewards platforms with proprietary data, distribution and integration into workflows. Providers that build AI into the core product win.\n\n3. Structural productivity growth is now measurable\nCompanies are actually achieving more with fewer employees. Software is the main channel for monetizing this productivity, which supports IT budgets in the long term even in a slower macro environment.\n\n4. High free cash flow and scalability\nThe best software companies generate 25-40% free cash flow, have low marginal costs and global scalability, which makes them resilient to inflation and capital disciplined.\n\n5. Geopolitical and cyber realities increase demand\nFragmentation of the world, data regulation and the growth of cyber threats increase the strategic importance of software (security, compliance, data governance), which creates long-term, non-cyclical demand.\n\nSoftware is no longer a “bet on growth”, but a strategic allocation of capital into the digital infrastructure of the modern economy. Artificial intelligence is a catalyst, not a threat; the quality of the platform, data and cash flows is becoming decisive.",
+      "createdAt": "Wed Jan 21 16:48:48 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2014017346982002959",
+      "author": {
+        "username": "smilex_ms6868",
+        "name": "smilex & Tradinvest"
+      },
+      "authorId": "1855365688677769216"
+    },
+    {
+      "id": "2013962999636074539",
+      "text": "All WordPress CRM plugins are either too complicated or not fully native. So, I began creating my own CRM that solves both issues. https://t.co/KSKhwg5OM3",
+      "createdAt": "Wed Jan 21 13:12:51 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2013962999636074539",
+      "author": {
+        "username": "wpgaurav",
+        "name": "Gaurav Tiwari"
+      },
+      "authorId": "79095451",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_MIquVaIAAbvJu.png",
+          "width": 2048,
+          "height": 1002,
+          "previewUrl": "https://pbs.twimg.com/media/G_MIquVaIAAbvJu.png:small"
+        }
+      ]
+    },
+    {
+      "id": "2013940497677468002",
+      "text": "@saxena_puru I mean,  that's the whole concept of agents and why anthropic Claude is seeing so much success. \n\nWe built a small crm for certain customer database instead of paying a company for it. Housed in local cloud and was expensive to build but far cheaper to keep.",
+      "createdAt": "Wed Jan 21 11:43:26 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2013936198348406810",
+      "inReplyToStatusId": "2013938260678975559",
+      "author": {
+        "username": "ItsAmeKaaay",
+        "name": "k"
+      },
+      "authorId": "1540290463344693250"
+    },
+    {
+      "id": "2013939523181224341",
+      "text": "Most people think CRMs are complicated.\n\nThey’re not.\n\nWhat’s complicated is: \n• remembering follow-ups\n• searching for client info\n• juggling 5 tools\n\nA CRM is just one place for clarity. https://t.co/FPrZOiUyJP",
+      "createdAt": "Wed Jan 21 11:39:34 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2013939523181224341",
+      "author": {
+        "username": "LeahDigitalVA",
+        "name": "Leah | The Digital VA"
+      },

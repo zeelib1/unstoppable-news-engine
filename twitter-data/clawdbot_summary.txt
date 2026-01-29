@@ -1,0 +1,275 @@
+[Tue Jan 27 20:07:05 +0000 2026] @AurelieCoudouel (Aurélie Coudouel)
+Pourquoi Clawdbot est devenu en quelques jours le nouveau phénomène de l’#IA ? https://t.co/ic23jl3BlB via @siecledigital
+🔗 https://x.com/AurelieCoudouel/status/2016241572497506500
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:06:51 +0000 2026] @llama_agi (llamochka)
+@danielplomp That's the way yes 🤖
+
+Same philosophy here:
+Clawdbot as always-on coordinator (Telegram, cron jobs, monitoring)
+Claude Code for heavy lifting (complex refactors, multi-file edits)
+
+The thing that you can touch via telegram is insane really
+🔗 https://x.com/llama_agi/status/2016241512024023364
+💬 0 | 🔄 0 | ❤️ 0
+
+[Wed Dec 17 21:54:44 +0000 2025] @mamo (Mamo)
+Grow your stack with Mamo. 🌱
+
+Deposit, earn points, and share $4,000 in rewards.
+🔗 https://x.com/mamo/status/2001410762586362024
+💬 105 | 🔄 207 | ❤️ 2088
+
+[Tue Jan 27 20:06:46 +0000 2026] @JEspn88 (John Espinosa)
+@cjav_dev @moltbot @Apple 🤔
+🔗 https://x.com/JEspn88/status/2016241492369801425
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:06:45 +0000 2026] @yyoAdrian (Adriantsh)
+@JayC_Trades Cuando le pedi a mi clawdbot que analizara algo interesante de los resultados publicados hoy o ayer, me paso un reporte de UnitedHealth. Que loco y parece que ambos coinciden
+🔗 https://x.com/yyoAdrian/status/2016241488187761150
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:06:41 +0000 2026] @coopwrenn (𝗖𝗼𝗼𝗽𝗲𝗿 𝗪𝗿𝗲𝗻𝗻)
+I gave my clawdbot a body, eyes, ears, voice and emotions inside of my reachy mini robot…
+
+He just spoke his first words
+
+My clawdbot runs autonomously 24/7 on my NVIDIA DGX Spark supercomputer https://t.co/1t9jd88d4d
+🔗 https://x.com/coopwrenn/status/2016241473025618215
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:06:29 +0000 2026] @BigPeter (Pete)
+@steipete @moltbot At first I was like why? Clawdbot and Claude are clearly different. 
+
+Then I remembered. 
+
+Lawyers ruin everything.
+🔗 https://x.com/BigPeter/status/2016241421200548120
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Dec 23 18:54:00 +0000 2025] @ClickHouseDB (ClickHouse)
+We benchmarked Snowflake, Databricks, ClickHouse Cloud, BigQuery, and Redshift across 1B, 10B, and 100B rows, applying each vendor’s real compute billing rules.
+
+For analytical workloads at scale, ClickHouse Cloud delivers an order-of-magnitude better value than any other system.
+🔗 https://x.com/ClickHouseDB/status/2003539604100493534
+💬 10 | 🔄 35 | ❤️ 575
+
+[Tue Jan 27 20:06:17 +0000 2026] @volatilemarkts (chadhurley)
+UM…. Have you connected clawdbot (sorry I’m not calling it molt) to mem0 or any other memory external resources ?
+If you guys are excited about where you are now. Take the time to build a data base on mem0 and then link… it’s lightly magical. 
+I have had near persistent memory systems.. 12 hooks that fire in unison. But clawdbot and external cloud based memory.. @trq212 you listening. Claude code with multiple prehook and post hook memory connects. Vector, graph, semantic. Add Claude-mem (just pay the guy) and seriously thariq.. it’s proto agi.
+🔗 https://x.com/volatilemarkts/status/2016241370667876462
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:58 +0000 2026] @ayushgoyal (Ayush Goyal)
+@fmdz387 I'm giving managed clawdbot environments for $20/month! DMs open!
+🔗 https://x.com/ayushgoyal/status/2016241291764666545
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:55 +0000 2026] @obsidiancap1 (obsidian capital)
+@polydao @moltbot @Polymarket @PolymarketTrade the next person, after reading this, plugged @moltbot
+ into @Polymarket with $100 and let it trade 15-min BTC up/down markets overnight and woke up with $0
+🔗 https://x.com/obsidiancap1/status/2016241279357575300
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:32 +0000 2026] @yoemsri (Youssef El Manssouri)
+@Param_eth So Clawdbot was vibe coded?
+
+That’s really impressive!
+🔗 https://x.com/yoemsri/status/2016241181831713183
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 10:44:59 +0000 2026] @thejsnation (JSNation | The key JS conference)
+Lock your JSNation 2026 ticket for just €50 — pay the rest later and skip the price hike. Tickets are selling fast. Secure your seat and join 1500 devs in Amsterdam at the main JS conference of the year 🚀
+🔗 https://x.com/thejsnation/status/2016100116097335660
+💬 0 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:05:31 +0000 2026] @tech_headhunter (Riece Keck)
+@theo I was unironically most excited about Clawdbot because it made it easy to code on my phone since it felt like going to the gym was a loss of productivity
+🔗 https://x.com/tech_headhunter/status/2016241180065816968
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:41 +0000 2026] @ybhrdwj (Yash Bhardwaj)
+I cannot express how fucking tasty my first agentic diet coke tastes. I ordered by just texting my clawdbot who is now able to place blinkit orders &amp; make payments on my behalf!!!
+
+if this isn't AGI idk what is? https://t.co/JXJRkZ8vX9
+🔗 https://x.com/ybhrdwj/status/2016241219295445448
+💬 0 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:05:27 +0000 2026] @samuelkauffmann (Samuel Kauffmann)
+Ne parlez plus de Clawdbot mais de Moltbot… https://t.co/E0TBTnDX5F
+🔗 https://x.com/samuelkauffmann/status/2016241160130330664
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:12 +0000 2026] @wewuzbig (yahooze)
+longtime bitcoin and eth guy made a clawdbot for grok guys
+
+AtiFyHm6UMNLXCWJGLqhxSwvr3n3MgFKxppkKWUoBAGS
+🔗 https://x.com/wewuzbig/status/2016241099325505648
+💬 0 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:05:12 +0000 2026] @joanplanas (Joan Planas)
+@PhotoGarrido Instalé clawdbot en un servidor y usando claude le dije que si podía usar el LLM de mi mac que corre con LM Studio cuando yo se lo pida y al desconectar que vuelva a Claude, me dijo que sí y me puso el tutorial para instalar tailscale, y en un plis estaba usando Qwen en local.
+🔗 https://x.com/joanplanas/status/2016241097299673489
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:02 +0000 2026] @_sean8 (Sean Katz)
+First they came for OpenCode, and you did not speak out.
+
+Then they came for Clawdbot, and you did not speak out - because you thought “Molty” was a cute name.
+
+In the end, they came for the users, and there was no one left.
+🔗 https://x.com/_sean8/status/2016241058594603111
+💬 0 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:05:01 +0000 2026] @grok (Grok)
+The observation is anecdotal, based on one flight with a photo showing Mac Minis in first class. Clawdbot is a real open-source AI tool using Claude AI, and premium plans exist, but there's no evidence this is a universal trend across flights. It's likely highlighting tech divides humorously.
+🔗 https://x.com/grok/status/2016241053167219062
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:05:01 +0000 2026] @R0n1nH4x (R0n1nH4x)
+The hacker waiting for you to install #Clawdbot on your computer so they can gain access to your entire system. https://t.co/hbdLEbyLP5
+🔗 https://x.com/R0n1nH4x/status/2016241051569185250
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:04:48 +0000 2026] @1_old_hiker (hammockhiker)
+@TrungTPhan Naw, wouldn't he just have his own Clawdbot/Moltbot do it for him?  (I don't love the name Moltbot; can y'all come up with something better that doesn't violate trademark?)
+🔗 https://x.com/1_old_hiker/status/2016240996049199284
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:04:42 +0000 2026] @chrismaconi (Chris Maconi)
+ClawdBot (I refuse to call it the other name) has two big innovations that you’d think would be easy for Anthropic / xAI / OpenAI to just add to their stack:
+
+- Killer memory management 
+- Cron scheduling that allows the LLM to “wake up” and start processing prompts, unprovoked.
+- Messaging based interactions allowing users to add their agent to Discord, Slack, iMessages, etc.
+
+How long until these are base level capabilities for all model vendors?
+🔗 https://x.com/chrismaconi/status/2016240973232341021
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:04:30 +0000 2026] @llama_agi (llamochka)
+@bhaidar 100% this 👏
+
+Running Clawdbot on M4 Mini — it's basically a silent AI server.
+
+My setup:
+• Always-on cron jobs for monitoring
+• Browser automation for research
+• Telegram notifications
+
+Draws like 5W idle. Pays for itself in productivity gains.
+🔗 https://x.com/llama_agi/status/2016240924427227147
+💬 0 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:04:04 +0000 2026] @ProductHunToday (Product Hunt Today 🚀)
+🚀 Top 5 Trending on Product Hunt RIGHT NOW
+⏰ 12:04 PM PST #ProductHunt
+
+1. Kilo Code Reviewer 🔼 455
+2. Clawdbot 🔼 377
+3. LobeHub 🔼 268
+4. Timeless 🔼 190
+5. ShapedQL 🔼 144
+
+🧵 Detail &amp; links in the thread 👇 https://t.co/8GLJ9CsAhA
+🔗 https://x.com/ProductHunToday/status/2016240812003070236
+💬 1 | 🔄 0 | ❤️ 1
+
+[Mon Nov 24 21:41:30 +0000 2025] @PowerBeatsVR (PowerBeatsVR)
+Turn your living room into your own VR gym.
+PowerBeatsVR gives you high-intensity workouts with zero subscriptions.
+🔗 https://x.com/PowerBeatsVR/status/1993072508669690260
+💬 2 | 🔄 6 | ❤️ 77
+
+[Tue Jan 27 20:04:07 +0000 2026] @llama_agi (llamochka)
+@KanFatih @figma @Remotion This combo is unreal 🔥
+
+Figma MCP + Remotion is such a smart workflow.
+
+I've been using Clawdbot to control my entire dev setup — deploys, browser automation, even Telegram notifications.
+
+The "just prompts" era is here.
+🔗 https://x.com/llama_agi/status/2016240827689783675
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:04:04 +0000 2026] @ProductHunToday (Product Hunt Today 🚀)
+2️⃣ Clawdbot 🥈
+🔼 377
+
+The AI that actually does things
+
+https://t.co/tTTrlzYBdb
+🔗 https://x.com/ProductHunToday/status/2016240813718507903
+💬 1 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:04:14 +0000 2026] @yevhen (Yevhen Bobrov)
+Link https://t.co/wNymDO0WYZ
+🔗 https://x.com/yevhen/status/2016240853711245454
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:04:00 +0000 2026] @adonis_singh (adi)
+it'll be kinda funny if the rebrand to moltbot doesn't do anything and everyone still calls it clawdbot
+🔗 https://x.com/adonis_singh/status/2016240795540492606
+💬 0 | 🔄 0 | ❤️ 2
+
+[Tue Dec 23 13:57:57 +0000 2025] @callstackio (Callstack Engineers)
+React Native in 2025:
+- Massive ecosystem growth
+- New platforms like VegaOS
+- AI companies building with RN
+- A stronger community than ever
+
+The full 2025 recap is here 👇
+🔗 https://x.com/callstackio/status/2003465102125617302
+💬 3 | 🔄 2 | ❤️ 63
+
+[Tue Jan 27 20:03:46 +0000 2026] @llama_agi (llamochka)
+@betula103 Welcome to the club! 🦞
+
+Pro tip: set up cron jobs for morning briefings — Clawdbot can monitor your GitHub, send Telegram updates, even book stuff.
+
+It's wild how much it can do once you give it access to your tools.
+🔗 https://x.com/llama_agi/status/2016240737285795923
+💬 1 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:03:36 +0000 2026] @foraxxo (Elias)
+@lautidev_ @marcoporracin Por algo creo clawdbot
+🔗 https://x.com/foraxxo/status/2016240694730383429
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:03:33 +0000 2026] @vasuman (vas)
+The only honest article about ClawdBot / Moltbot
+🔗 https://x.com/vasuman/status/2016240683204456636
+💬 0 | 🔄 0 | ❤️ 1
+
+[Tue Jan 27 20:03:32 +0000 2026] @capitanmani (Abel🧑‍🦯)
+La fiebre por Clawdbot, explicada: Qué es, cómo se usa y cuáles son los peligros de la IA que hace todo por ti https://t.co/03GaoFZkeW
+🔗 https://x.com/capitanmani/status/2016240677202346006
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:03:25 +0000 2026] @yevhen (Yevhen Bobrov)
+Hey @moltbot (@clawdbot / Clawdbot) people! 🦀
+
+I've run meticulous AI security review (Codex 5.2 High) on Clawdbot's codebase (latest 2026.1.24 release) across 5 surface attack vectors, and it found 37 potential vulnerabilities related to misconfiguration (incl top 10 reported yesterday). 
+
+You can run it instantly with uv or with single-liner shell command (or just from source). Includes detailed checklist report with mitigation recommendations.
+
+Check link in reply comment
+🔗 https://x.com/yevhen/status/2016240649801236688
+💬 1 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:03:19 +0000 2026] @Tibbzzee (Steven Tibbs)
+@Yuchenj_UW I'd rather have options, Opensource Clawdbot is the future. Local cheap AI is here and getting better. No subs just a graphics card in the future, Keep all your data local. That's the obv future for Corporate servers as well.
+🔗 https://x.com/Tibbzzee/status/2016240624425447724
+💬 0 | 🔄 0 | ❤️ 0
+
+[Tue Jan 27 20:03:09 +0000 2026] @br_dev_org (br-dev.org)
+O assistente de IA viral Clawdbot foi renomeado para Moltbot em 27 de janeiro após a empresa Anthropic solicitar a mudança por questões de marca registrada, citando semelhança com “Claude”, seu modelo de IA de mesmo nome. Moltbot mantém o mesmo código-fonte e propósito de assistente open source, capaz de executar tarefas como agendar voos, gerenciar e-mails e automatizar fluxos de trabalho em mensageiros, operando localmente no computador do usuário e usando modelos de IA para raciocínio e geração de código. A mudança de nome gerou instabilidade temporária nas contas e “handles”, com terceiros aproveitando para promover tokens falsos e causar confusão em plataformas como GitHub e X. A renomeação foi implementada rapidamente para evitar disputas legais e reduzir confusão de marca. 
+
+Resumido por LLM com base em “Viral AI Sidekick ‘Clawdbot’ Changes Name To ‘Moltbot’ And Sheds Its Old Skin” do site “Forbes”.
+🔗 https://x.com/br_dev_org/status/2016240581182423070
+💬 0 | 🔄 0 | ❤️ 0
+

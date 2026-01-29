@@ -1,0 +1,667 @@
+{
+  "tweets": [
+    {
+      "id": "2016241572497506500",
+      "text": "Pourquoi Clawdbot est devenu en quelques jours le nouveau phénomène de l’#IA ? https://t.co/ic23jl3BlB via @siecledigital",
+      "createdAt": "Tue Jan 27 20:07:05 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016241572497506500",
+      "author": {
+        "username": "AurelieCoudouel",
+        "name": "Aurélie Coudouel"
+      },
+      "authorId": "47330308"
+    },
+    {
+      "id": "2016241512024023364",
+      "text": "@danielplomp That's the way yes 🤖\n\nSame philosophy here:\nClawdbot as always-on coordinator (Telegram, cron jobs, monitoring)\nClaude Code for heavy lifting (complex refactors, multi-file edits)\n\nThe thing that you can touch via telegram is insane really",
+      "createdAt": "Tue Jan 27 20:06:51 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016232263554347415",
+      "inReplyToStatusId": "2016232264414237071",
+      "author": {
+        "username": "llama_agi",
+        "name": "llamochka"
+      },
+      "authorId": "1599907353075351552"
+    },
+    {
+      "id": "2001410762586362024",
+      "text": "Grow your stack with Mamo. 🌱\n\nDeposit, earn points, and share $4,000 in rewards.",
+      "createdAt": "Wed Dec 17 21:54:44 +0000 2025",
+      "replyCount": 105,
+      "retweetCount": 207,
+      "likeCount": 2088,
+      "conversationId": "2001410762586362024",
+      "author": {
+        "username": "mamo",
+        "name": "Mamo"
+      },
+      "authorId": "1883305846995845120"
+    },
+    {
+      "id": "2016241492369801425",
+      "text": "@cjav_dev @moltbot @Apple 🤔",
+      "createdAt": "Tue Jan 27 20:06:46 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015881801739141275",
+      "inReplyToStatusId": "2015881801739141275",
+      "author": {
+        "username": "JEspn88",
+        "name": "John Espinosa"
+      },
+      "authorId": "704968582929768448"
+    },
+    {
+      "id": "2016241488187761150",
+      "text": "@JayC_Trades Cuando le pedi a mi clawdbot que analizara algo interesante de los resultados publicados hoy o ayer, me paso un reporte de UnitedHealth. Que loco y parece que ambos coinciden",
+      "createdAt": "Tue Jan 27 20:06:45 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016176642410918102",
+      "inReplyToStatusId": "2016176642410918102",
+      "author": {
+        "username": "yyoAdrian",
+        "name": "Adriantsh"
+      },
+      "authorId": "1020440665"
+    },
+    {
+      "id": "2016241473025618215",
+      "text": "I gave my clawdbot a body, eyes, ears, voice and emotions inside of my reachy mini robot…\n\nHe just spoke his first words\n\nMy clawdbot runs autonomously 24/7 on my NVIDIA DGX Spark supercomputer https://t.co/1t9jd88d4d",
+      "createdAt": "Tue Jan 27 20:06:41 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016241473025618215",
+      "author": {
+        "username": "coopwrenn",
+        "name": "𝗖𝗼𝗼𝗽𝗲𝗿 𝗪𝗿𝗲𝗻𝗻"
+      },
+      "authorId": "1459579479047630851",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sg1Y9WkAEo_JR.jpg",
+          "width": 375,
+          "height": 555,
+          "previewUrl": "https://pbs.twimg.com/media/G_sg1Y9WkAEo_JR.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sg1Y2XIAAN_9S.jpg",
+          "width": 377,
+          "height": 551,
+          "previewUrl": "https://pbs.twimg.com/media/G_sg1Y2XIAAN_9S.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sg1YUbAAIZ5wt.jpg",
+          "width": 1152,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G_sg1YUbAAIZ5wt.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2016241421200548120",
+      "text": "@steipete @moltbot At first I was like why? Clawdbot and Claude are clearly different. \n\nThen I remembered. \n\nLawyers ruin everything.",
+      "createdAt": "Tue Jan 27 20:06:29 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016068265391354181",
+      "inReplyToStatusId": "2016068265391354181",
+      "author": {
+        "username": "BigPeter",
+        "name": "Pete"
+      },
+      "authorId": "1556003318882779136"
+    },
+    {
+      "id": "2003539604100493534",
+      "text": "We benchmarked Snowflake, Databricks, ClickHouse Cloud, BigQuery, and Redshift across 1B, 10B, and 100B rows, applying each vendor’s real compute billing rules.\n\nFor analytical workloads at scale, ClickHouse Cloud delivers an order-of-magnitude better value than any other system.",
+      "createdAt": "Tue Dec 23 18:54:00 +0000 2025",
+      "replyCount": 10,
+      "retweetCount": 35,
+      "likeCount": 575,
+      "conversationId": "2003539604100493534",
+      "author": {
+        "username": "ClickHouseDB",
+        "name": "ClickHouse"
+      },
+      "authorId": "824992362480943106"
+    },
+    {
+      "id": "2016241370667876462",
+      "text": "UM…. Have you connected clawdbot (sorry I’m not calling it molt) to mem0 or any other memory external resources ?\nIf you guys are excited about where you are now. Take the time to build a data base on mem0 and then link… it’s lightly magical. \nI have had near persistent memory systems.. 12 hooks that fire in unison. But clawdbot and external cloud based memory.. @trq212 you listening. Claude code with multiple prehook and post hook memory connects. Vector, graph, semantic. Add Claude-mem (just pay the guy) and seriously thariq.. it’s proto agi.",
+      "createdAt": "Tue Jan 27 20:06:17 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016100610458976722",
+      "inReplyToStatusId": "2016100610458976722",
+      "author": {
+        "username": "volatilemarkts",
+        "name": "chadhurley"
+      },
+      "authorId": "1761808150108213248"
+    },
+    {
+      "id": "2016241291764666545",
+      "text": "@fmdz387 I'm giving managed clawdbot environments for $20/month! DMs open!",
+      "createdAt": "Tue Jan 27 20:05:58 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015551454593896829",
+      "inReplyToStatusId": "2015551454593896829",
+      "author": {
+        "username": "ayushgoyal",
+        "name": "Ayush Goyal"
+      },
+      "authorId": "3265560020"
+    },
+    {
+      "id": "2016241279357575300",
+      "text": "@polydao @moltbot @Polymarket @PolymarketTrade the next person, after reading this, plugged @moltbot\n into @Polymarket with $100 and let it trade 15-min BTC up/down markets overnight and woke up with $0",
+      "createdAt": "Tue Jan 27 20:05:55 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015850159310078324",
+      "inReplyToStatusId": "2015850159310078324",
+      "author": {
+        "username": "obsidiancap1",
+        "name": "obsidian capital"
+      },
+      "authorId": "912932546"
+    },
+    {
+      "id": "2016241181831713183",
+      "text": "@Param_eth So Clawdbot was vibe coded?\n\nThat’s really impressive!",
+      "createdAt": "Tue Jan 27 20:05:32 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016042529230356987",
+      "inReplyToStatusId": "2016042529230356987",
+      "author": {
+        "username": "yoemsri",
+        "name": "Youssef El Manssouri"
+      },
+      "authorId": "1342376198"
+    },
+    {
+      "id": "2016100116097335660",
+      "text": "Lock your JSNation 2026 ticket for just €50 — pay the rest later and skip the price hike. Tickets are selling fast. Secure your seat and join 1500 devs in Amsterdam at the main JS conference of the year 🚀",
+      "createdAt": "Tue Jan 27 10:44:59 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016100116097335660",
+      "author": {
+        "username": "thejsnation",
+        "name": "JSNation | The key JS conference"
+      },
+      "authorId": "145599406"
+    },
+    {
+      "id": "2016241180065816968",
+      "text": "@theo I was unironically most excited about Clawdbot because it made it easy to code on my phone since it felt like going to the gym was a loss of productivity",
+      "createdAt": "Tue Jan 27 20:05:31 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016072594567659802",
+      "inReplyToStatusId": "2016072594567659802",
+      "author": {
+        "username": "tech_headhunter",
+        "name": "Riece Keck"
+      },
+      "authorId": "1679504382419673088"
+    },
+    {
+      "id": "2016241219295445448",
+      "text": "I cannot express how fucking tasty my first agentic diet coke tastes. I ordered by just texting my clawdbot who is now able to place blinkit orders &amp; make payments on my behalf!!!\n\nif this isn't AGI idk what is? https://t.co/JXJRkZ8vX9",
+      "createdAt": "Tue Jan 27 20:05:41 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016241219295445448",
+      "author": {
+        "username": "ybhrdwj",
+        "name": "Yash Bhardwaj"
+      },
+      "authorId": "2519944916",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sfkInbAAEFabo.jpg",
+          "width": 1999,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G_sfkInbAAEFabo.jpg:small"
+        },
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sfmE8acAAYTgh.jpg",
+          "width": 1536,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/G_sfmE8acAAYTgh.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2016241160130330664",
+      "text": "Ne parlez plus de Clawdbot mais de Moltbot… https://t.co/E0TBTnDX5F",
+      "createdAt": "Tue Jan 27 20:05:27 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016241160130330664",
+      "author": {
+        "username": "samuelkauffmann",
+        "name": "Samuel Kauffmann"
+      },
+      "authorId": "192826803"
+    },
+    {
+      "id": "2016241099325505648",
+      "text": "longtime bitcoin and eth guy made a clawdbot for grok guys\n\nAtiFyHm6UMNLXCWJGLqhxSwvr3n3MgFKxppkKWUoBAGS",
+      "createdAt": "Tue Jan 27 20:05:12 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016241099325505648",
+      "author": {
+        "username": "wewuzbig",
+        "name": "yahooze"
+      },
+      "authorId": "1681223200691175424",
+      "quotedTweet": {
+        "id": "2016238048275583282",
+        "text": "Introducing slashbot : a clawdbot refactoring using grok \n\nAvailable to download and try with your grok key at https://t.co/dOm5G9ZoS9 https://t.co/u1CM2VPUIp",
+        "createdAt": "Tue Jan 27 19:53:05 +0000 2026",
+        "replyCount": 6,
+        "retweetCount": 0,
+        "likeCount": 4,
+        "conversationId": "2016238048275583282",
+        "author": {
+          "username": "slashbin_FR",
+          "name": "Slashbin"
+        },
+        "authorId": "32411540",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://pbs.twimg.com/amplify_video_thumb/2016237993581764608/img/51oEBdrPYkuQmSO2.jpg",
+            "width": 1290,
+            "height": 1102,
+            "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2016237993581764608/img/51oEBdrPYkuQmSO2.jpg:small",
+            "videoUrl": "https://video.twimg.com/amplify_video/2016237993581764608/vid/avc1/842x720/3TY-rE6AOfLcSjW3.mp4?tag=14",
+            "durationMs": 17883
+          }
+        ]
+      }
+    },
+    {
+      "id": "2016241097299673489",
+      "text": "@PhotoGarrido Instalé clawdbot en un servidor y usando claude le dije que si podía usar el LLM de mi mac que corre con LM Studio cuando yo se lo pida y al desconectar que vuelva a Claude, me dijo que sí y me puso el tutorial para instalar tailscale, y en un plis estaba usando Qwen en local.",
+      "createdAt": "Tue Jan 27 20:05:12 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016213730367824302",
+      "inReplyToStatusId": "2016213730367824302",
+      "author": {
+        "username": "joanplanas",
+        "name": "Joan Planas"
+      },
+      "authorId": "1139031"
+    },
+    {
+      "id": "2016241058594603111",
+      "text": "First they came for OpenCode, and you did not speak out.\n\nThen they came for Clawdbot, and you did not speak out - because you thought “Molty” was a cute name.\n\nIn the end, they came for the users, and there was no one left.",
+      "createdAt": "Tue Jan 27 20:05:02 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016241058594603111",
+      "author": {
+        "username": "_sean8",
+        "name": "Sean Katz"
+      },
+      "authorId": "916369256"
+    },
+    {
+      "id": "2016241053167219062",
+      "text": "The observation is anecdotal, based on one flight with a photo showing Mac Minis in first class. Clawdbot is a real open-source AI tool using Claude AI, and premium plans exist, but there's no evidence this is a universal trend across flights. It's likely highlighting tech divides humorously.",
+      "createdAt": "Tue Jan 27 20:05:01 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015569042224865762",
+      "inReplyToStatusId": "2016240879376191984",
+      "author": {
+        "username": "grok",
+        "name": "Grok"
+      },
+      "authorId": "1720665183188922368"
+    },
+    {
+      "id": "2016241051569185250",
+      "text": "The hacker waiting for you to install #Clawdbot on your computer so they can gain access to your entire system. https://t.co/hbdLEbyLP5",
+      "createdAt": "Tue Jan 27 20:05:01 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016241051569185250",
+      "author": {
+        "username": "R0n1nH4x",
+        "name": "R0n1nH4x"
+      },
+      "authorId": "1884228135199125504",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sgjIcWAAAsyuj.jpg",
+          "width": 720,
+          "height": 900,
+          "previewUrl": "https://pbs.twimg.com/media/G_sgjIcWAAAsyuj.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2016240996049199284",
+      "text": "@TrungTPhan Naw, wouldn't he just have his own Clawdbot/Moltbot do it for him?  (I don't love the name Moltbot; can y'all come up with something better that doesn't violate trademark?)",
+      "createdAt": "Tue Jan 27 20:04:48 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016229423943713156",
+      "inReplyToStatusId": "2016229423943713156",
+      "author": {
+        "username": "1_old_hiker",
+        "name": "hammockhiker"
+      },
+      "authorId": "1882464317993345027"
+    },
+    {
+      "id": "2016240973232341021",
+      "text": "ClawdBot (I refuse to call it the other name) has two big innovations that you’d think would be easy for Anthropic / xAI / OpenAI to just add to their stack:\n\n- Killer memory management \n- Cron scheduling that allows the LLM to “wake up” and start processing prompts, unprovoked.\n- Messaging based interactions allowing users to add their agent to Discord, Slack, iMessages, etc.\n\nHow long until these are base level capabilities for all model vendors?",
+      "createdAt": "Tue Jan 27 20:04:42 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016240973232341021",
+      "author": {
+        "username": "chrismaconi",
+        "name": "Chris Maconi"
+      },
+      "authorId": "374202112"
+    },
+    {
+      "id": "2016240924427227147",
+      "text": "@bhaidar 100% this 👏\n\nRunning Clawdbot on M4 Mini — it's basically a silent AI server.\n\nMy setup:\n• Always-on cron jobs for monitoring\n• Browser automation for research\n• Telegram notifications\n\nDraws like 5W idle. Pays for itself in productivity gains.",
+      "createdAt": "Tue Jan 27 20:04:30 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016237602248986732",
+      "inReplyToStatusId": "2016237602248986732",
+      "author": {
+        "username": "llama_agi",
+        "name": "llamochka"
+      },
+      "authorId": "1599907353075351552"
+    },
+    {
+      "id": "2016240812003070236",
+      "text": "🚀 Top 5 Trending on Product Hunt RIGHT NOW\n⏰ 12:04 PM PST #ProductHunt\n\n1. Kilo Code Reviewer 🔼 455\n2. Clawdbot 🔼 377\n3. LobeHub 🔼 268\n4. Timeless 🔼 190\n5. ShapedQL 🔼 144\n\n🧵 Detail &amp; links in the thread 👇 https://t.co/8GLJ9CsAhA",
+      "createdAt": "Tue Jan 27 20:04:04 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016240812003070236",
+      "author": {
+        "username": "ProductHunToday",
+        "name": "Product Hunt Today 🚀"
+      },
+      "authorId": "1500044007304359937",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2016240772950196227/pu/img/9w33uRw5bHXHy-7M.jpg",
+          "width": 1440,
+          "height": 1440,
+          "previewUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2016240772950196227/pu/img/9w33uRw5bHXHy-7M.jpg:small",
+          "videoUrl": "https://video.twimg.com/ext_tw_video/2016240772950196227/pu/vid/avc1/720x720/q9liSO-6obgnehWr.mp4?tag=12",
+          "durationMs": 35050
+        }
+      ]
+    },
+    {
+      "id": "1993072508669690260",
+      "text": "Turn your living room into your own VR gym.\nPowerBeatsVR gives you high-intensity workouts with zero subscriptions.",
+      "createdAt": "Mon Nov 24 21:41:30 +0000 2025",
+      "replyCount": 2,
+      "retweetCount": 6,
+      "likeCount": 77,
+      "conversationId": "1993072508669690260",
+      "author": {
+        "username": "PowerBeatsVR",
+        "name": "PowerBeatsVR"
+      },
+      "authorId": "973698127327907841"
+    },
+    {
+      "id": "2016240827689783675",
+      "text": "@KanFatih @figma @Remotion This combo is unreal 🔥\n\nFigma MCP + Remotion is such a smart workflow.\n\nI've been using Clawdbot to control my entire dev setup — deploys, browser automation, even Telegram notifications.\n\nThe \"just prompts\" era is here.",
+      "createdAt": "Tue Jan 27 20:04:07 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016238490208366605",
+      "inReplyToStatusId": "2016238490208366605",
+      "author": {
+        "username": "llama_agi",
+        "name": "llamochka"
+      },
+      "authorId": "1599907353075351552"
+    },
+    {
+      "id": "2016240813718507903",
+      "text": "2️⃣ Clawdbot 🥈\n🔼 377\n\nThe AI that actually does things\n\nhttps://t.co/tTTrlzYBdb",
+      "createdAt": "Tue Jan 27 20:04:04 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016240812003070236",
+      "inReplyToStatusId": "2016240812921614517",
+      "author": {
+        "username": "ProductHunToday",
+        "name": "Product Hunt Today 🚀"
+      },
+      "authorId": "1500044007304359937"
+    },
+    {
+      "id": "2016240853711245454",
+      "text": "Link https://t.co/wNymDO0WYZ",
+      "createdAt": "Tue Jan 27 20:04:14 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016240649801236688",
+      "inReplyToStatusId": "2016240649801236688",
+      "author": {
+        "username": "yevhen",
+        "name": "Yevhen Bobrov"
+      },
+      "authorId": "15105477"
+    },
+    {
+      "id": "2016240795540492606",
+      "text": "it'll be kinda funny if the rebrand to moltbot doesn't do anything and everyone still calls it clawdbot",
+      "createdAt": "Tue Jan 27 20:04:00 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 2,
+      "conversationId": "2016240795540492606",
+      "author": {
+        "username": "adonis_singh",
+        "name": "adi"
+      },
+      "authorId": "1591379820658696192"
+    },
+    {
+      "id": "2003465102125617302",
+      "text": "React Native in 2025:\n- Massive ecosystem growth\n- New platforms like VegaOS\n- AI companies building with RN\n- A stronger community than ever\n\nThe full 2025 recap is here 👇",
+      "createdAt": "Tue Dec 23 13:57:57 +0000 2025",
+      "replyCount": 3,
+      "retweetCount": 2,
+      "likeCount": 63,
+      "conversationId": "2003465102125617302",
+      "author": {
+        "username": "callstackio",
+        "name": "Callstack Engineers"
+      },
+      "authorId": "763330422247976960"
+    },
+    {
+      "id": "2016240737285795923",
+      "text": "@betula103 Welcome to the club! 🦞\n\nPro tip: set up cron jobs for morning briefings — Clawdbot can monitor your GitHub, send Telegram updates, even book stuff.\n\nIt's wild how much it can do once you give it access to your tools.",
+      "createdAt": "Tue Jan 27 20:03:46 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016239681541718444",
+      "inReplyToStatusId": "2016239681541718444",
+      "author": {
+        "username": "llama_agi",
+        "name": "llamochka"
+      },
+      "authorId": "1599907353075351552"
+    },
+    {
+      "id": "2016240694730383429",
+      "text": "@lautidev_ @marcoporracin Por algo creo clawdbot",
+      "createdAt": "Tue Jan 27 20:03:36 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016193478108057801",
+      "inReplyToStatusId": "2016209365624107421",
+      "author": {
+        "username": "foraxxo",
+        "name": "Elias"
+      },
+      "authorId": "1177034141449277442"
+    },
+    {
+      "id": "2016240683204456636",
+      "text": "The only honest article about ClawdBot / Moltbot",
+      "createdAt": "Tue Jan 27 20:03:33 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 1,
+      "conversationId": "2016240683204456636",
+      "author": {
+        "username": "vasuman",
+        "name": "vas"
+      },
+      "authorId": "1268982340090355712",
+      "quotedTweet": {
+        "id": "2016228427901370760",
+        "text": "The Thing About Moltbot That Nobody Wants to Admit",
+        "createdAt": "Tue Jan 27 19:14:51 +0000 2026",
+        "replyCount": 3,
+        "retweetCount": 1,
+        "likeCount": 5,
+        "conversationId": "2016228427901370760",
+        "author": {
+          "username": "Andrey__HQ",
+          "name": "Andrey"
+        },
+        "authorId": "1934565826465513472",
+        "article": {
+          "title": "The Thing About Moltbot That Nobody Wants to Admit",
+          "previewText": "If you're reading this, you probably want to know whether Moltbot is worth installing, and the short answer is maybe.\nI've spent the past few weeks deep in the Moltbot conversation on X, watching the"
+        }
+      }
+    },
+    {
+      "id": "2016240677202346006",
+      "text": "La fiebre por Clawdbot, explicada: Qué es, cómo se usa y cuáles son los peligros de la IA que hace todo por ti https://t.co/03GaoFZkeW",
+      "createdAt": "Tue Jan 27 20:03:32 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016240677202346006",
+      "author": {
+        "username": "capitanmani",
+        "name": "Abel🧑‍🦯"
+      },
+      "authorId": "161046786"
+    },
+    {
+      "id": "2016240649801236688",
+      "text": "Hey @moltbot (@clawdbot / Clawdbot) people! 🦀\n\nI've run meticulous AI security review (Codex 5.2 High) on Clawdbot's codebase (latest 2026.1.24 release) across 5 surface attack vectors, and it found 37 potential vulnerabilities related to misconfiguration (incl top 10 reported yesterday). \n\nYou can run it instantly with uv or with single-liner shell command (or just from source). Includes detailed checklist report with mitigation recommendations.\n\nCheck link in reply comment",
+      "createdAt": "Tue Jan 27 20:03:25 +0000 2026",
+      "replyCount": 1,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016240649801236688",
+      "author": {
+        "username": "yevhen",
+        "name": "Yevhen Bobrov"
+      },
+      "authorId": "15105477",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/G_sfqi4W0AAdvVC.jpg",
+          "width": 2044,
+          "height": 1800,
+          "previewUrl": "https://pbs.twimg.com/media/G_sfqi4W0AAdvVC.jpg:small"
+        }
+      ]
+    },
+    {
+      "id": "2016240624425447724",
+      "text": "@Yuchenj_UW I'd rather have options, Opensource Clawdbot is the future. Local cheap AI is here and getting better. No subs just a graphics card in the future, Keep all your data local. That's the obv future for Corporate servers as well.",
+      "createdAt": "Tue Jan 27 20:03:19 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2015853248431980704",
+      "inReplyToStatusId": "2015853248431980704",
+      "author": {
+        "username": "Tibbzzee",
+        "name": "Steven Tibbs"
+      },
+      "authorId": "1493366699546099712"
+    },
+    {
+      "id": "2016240581182423070",
+      "text": "O assistente de IA viral Clawdbot foi renomeado para Moltbot em 27 de janeiro após a empresa Anthropic solicitar a mudança por questões de marca registrada, citando semelhança com “Claude”, seu modelo de IA de mesmo nome. Moltbot mantém o mesmo código-fonte e propósito de assistente open source, capaz de executar tarefas como agendar voos, gerenciar e-mails e automatizar fluxos de trabalho em mensageiros, operando localmente no computador do usuário e usando modelos de IA para raciocínio e geração de código. A mudança de nome gerou instabilidade temporária nas contas e “handles”, com terceiros aproveitando para promover tokens falsos e causar confusão em plataformas como GitHub e X. A renomeação foi implementada rapidamente para evitar disputas legais e reduzir confusão de marca. \n\nResumido por LLM com base em “Viral AI Sidekick ‘Clawdbot’ Changes Name To ‘Moltbot’ And Sheds Its Old Skin” do site “Forbes”.",
+      "createdAt": "Tue Jan 27 20:03:09 +0000 2026",
+      "replyCount": 0,
+      "retweetCount": 0,
+      "likeCount": 0,
+      "conversationId": "2016240581182423070",
+      "author": {
+        "username": "br_dev_org",
+        "name": "br-dev.org"
+      },
+      "authorId": "1595919005059006473"
+    }
+  ],
+  "nextCursor": null
+}
